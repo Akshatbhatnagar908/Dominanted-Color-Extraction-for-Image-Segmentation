@@ -1,0 +1,1 @@
+# Dominanted-Color-Extraction-for-Image-Segmentation
